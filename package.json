@@ -26,5 +26,8 @@
     "url": "https://github.com:VasylynaSidei/Player.git",
     "id": 374937162
   },
-  "homepage": "https://VasylynaSidei.github.io/music-player"
+  "homepage": "https://VasylynaSidei.github.io/music-player",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
 }
